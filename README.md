@@ -1,0 +1,1 @@
+# hybrid-soc-cloud-threat-hunting-grc-lab
